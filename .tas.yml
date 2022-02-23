@@ -12,4 +12,5 @@ postMerge:
 postRun:
      command:
         - yarn --version
+configFile: jest.config.js
 version: 1.0
